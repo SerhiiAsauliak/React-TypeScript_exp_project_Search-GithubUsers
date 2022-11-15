@@ -1,5 +1,5 @@
 import styles from './UserStat.module.scss';
-import { LocalGithubUser } from 'types';
+import { LocalGithubUser } from '../../types';
 
 export interface UserStatProps extends Pick<LocalGithubUser, 'repos' | 'followers' | 'following'> {
 }
