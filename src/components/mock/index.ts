@@ -2,17 +2,17 @@
 import { LocalGithubUser } from "../../types";
 
 export const defaultUser: LocalGithubUser = {
-  "login": "michey85",
-  "avatar": "https://avatars.githubusercontent.com/u/36237995?v=4",
-  "name": "Mikhail Nepomnyashchiy",
-  "company": "EPAM",
-  "blog": "mishanep.com",
-  "location": "Malaga",
-  "bio": "React/Vue developer",
-  "twitter": "pcgramota",
-  "repos": 60,
-  "followers": 184,
-  "following": 5,
-  "created": "2018-02-07T16:18:45Z",
+  "login": "SerhiiAsauliak",
+  "avatar": "https://avatars.githubusercontent.com/u/99813894?v=4",
+  "name": "Serhii Asauliak",
+  "company": "",
+  "blog": "mel.gipppson.com",
+  "location": "Odessa",
+  "bio": "Frontend/React developer",
+  "twitter": "",
+  "repos": 19,
+  "followers": 0,
+  "following": 0,
+  "created": "2022-02-16T13:49:27Z",
 }
  

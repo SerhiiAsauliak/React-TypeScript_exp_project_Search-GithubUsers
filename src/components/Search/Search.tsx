@@ -30,7 +30,7 @@ export const Search = ({ hasError, onSubmit }: SearchProps) => {
         <input type='text'
               className={styles.textField}
               id='search'
-              name='userName'
+              name={'userName'}
               placeholder='Search GitHub username...'
         />
         {hasError && (
